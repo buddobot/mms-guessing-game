@@ -20,7 +20,8 @@ export default function UnlockPage() {
 
   return (
     <>
-      {/* 👀 Hint: Try /blackmamba in the URL */}
+      {/* 🐍 You found the snake try /blackmamba in the URL */} 
+
       <main className="min-h-screen flex items-center justify-center px-4 bg-[#270B65] bg-[url('/logo.png')] bg-repeat bg-cover">
         <form
           onSubmit={handleSubmit}
