@@ -42,11 +42,6 @@ export default function UnlockPage() {
         </button>
       </form>
     </main>
-    <div dangerouslySetInnerHTML={{ __html: '<!-- 👀 Hint: Try /blackmamba in the URL-->' }} />
-      <main className="...">
-      {/* Secret Message */}
-      </main>
-    </>
-    </div>
+   
   );
 }
