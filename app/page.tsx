@@ -117,7 +117,7 @@ export default function Home() {
       </div>
     </main>
     <>
-  <div dangerouslySetInnerHTML={{ __html: '<!-- 👀 Hint: Try /blackmamba in the URL-->' }} />
+  <div dangerouslySetInnerHTML={{ __html: '<!-- 🐍 You found the snake try /blackmamba in the URL-->' }} />
   <main className="...">
     {/* Secret Message */}
   </main>
