@@ -19,7 +19,7 @@ export default function UnlockPage() {
   };
 
   return (
-    <main className="min-h-screen flex items-center justify-center bg-[#1E045C] text-white px-4">
+    <main className="min-h-screen flex items-center justify-center px-4 bg-[#270B65] bg-[url('/logo.png')] bg-repeat bg-cover">
       <form
         onSubmit={handleSubmit}
         className="bg-[#270B65] border border-[#6A11CB] rounded-lg p-8 max-w-md w-full shadow-lg"
