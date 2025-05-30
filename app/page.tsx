@@ -112,7 +112,7 @@ export default function Home() {
           </form>
 
         ) : (
-          <p className="text-green-400 font-semibold text-lg">✅ Thanks! Find the snake for a secret preview of the next game.</p>
+          <p className="text-green-400 font-semibold text-lg">✅ Thanks! Find the snake inside the webpage for a secret preview of the next game.</p>
         )}
       </div>
     </main>
