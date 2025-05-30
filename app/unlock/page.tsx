@@ -10,7 +10,7 @@ export default function UnlockPage() {
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    if (password === 'launch2025') {
+    if (password === 'TwentyTwo=10110') {
       document.cookie = `site_access=launch2025; path=/`;
       router.push('/');
     } else {
